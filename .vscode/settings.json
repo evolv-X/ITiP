@@ -1,0 +1,6 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "C_Cpp.default.cppStandard": "c++20"
+}
